@@ -1,0 +1,9 @@
+{
+  "accentColor": "#f13d1e",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "Fira Mono for Powerline",
+  "textFontFamily": "Anonymous Pro for Powerline",
+  "interfaceFontFamily": "Fira Mono for Powerline",
+  "translucency": true
+}

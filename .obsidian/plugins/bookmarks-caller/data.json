@@ -1,0 +1,19 @@
+{
+  "openBookmarksCaller": {
+    "recursivelyOpen": true,
+    "showFooterButtons": true,
+    "showLegends": true,
+    "focusColor": "#00b4e0",
+    "characters": "asdfghjkl;",
+    "allBtn": "/",
+    "backBtn": "Backspace"
+  },
+  "searchBookmarks": {
+    "structureType": "flat",
+    "sortOrder": "original",
+    "recursivelyOpen": true,
+    "showFooterButtons": true,
+    "showLegends": true,
+    "focusColor": "#00b4e0"
+  }
+}
